@@ -1,0 +1,20 @@
+<phpunit
+	backupGlobals="false"
+	colors="true"
+	strict="true"
+	verbose="true"
+	bootstrap="../lib/unittest-bootstrap.php"
+	syntaxCheck="true"
+>
+	<filter>
+
+		<blacklist>
+			<exclude>
+			</exclude>
+		</blacklist>
+		<whitelist>
+			<exclude>
+			</exclude>
+		</whitelist>
+	</filter>
+</phpunit>
