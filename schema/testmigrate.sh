@@ -1,8 +1,8 @@
 #!/bin/bash
 
 export DBHOST=obrien
-export PGUSER=tobyapproved
-DB=tobyapproved
+export PGUSER=pamtest
+DB=pamtest
 
 [[ -z $1 ]] && echo "Specify username with superuser privileges as first argument" && exit 1
 
