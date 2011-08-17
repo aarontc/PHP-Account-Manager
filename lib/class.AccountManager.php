@@ -1,5 +1,7 @@
 <?php
 
+namespace AccountManager {
+
 	/**
 	 * \brief Main interface to account management
 	 */
@@ -20,5 +22,7 @@
 
 
 	 }
+
+}
 
 ?>

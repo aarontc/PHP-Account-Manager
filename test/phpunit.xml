@@ -1,5 +1,5 @@
 <phpunit
-	backupGlobals="false"
+	backupGlobals="true"
 	colors="true"
 	strict="true"
 	verbose="true"
