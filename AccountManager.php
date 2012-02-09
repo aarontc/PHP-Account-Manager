@@ -17,7 +17,7 @@ namespace AccountManager {
 					require_once($testpath);
 	}
 
-	spl_autoload_register('accountmanager_autoload');
+	spl_autoload_register('AccountManager\accountmanager_autoload');
 
 
 	// Libraries

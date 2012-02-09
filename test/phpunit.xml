@@ -3,7 +3,7 @@
 	colors="true"
 	strict="true"
 	verbose="true"
-	bootstrap="../lib/unittest-bootstrap.php"
+	bootstrap="bootstrap.php"
 	syntaxCheck="true"
 >
 	<filter>
